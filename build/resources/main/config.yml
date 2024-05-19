@@ -1,0 +1,12 @@
+afkzone:
+  locations:
+    pos1:
+    pos2:
+    spawn:
+  time: 60
+  rewards:
+    - "give %player% dirt 1"
+  message: "&7You received &e1 block of dirt&7."
+  action_bar:
+    time: "&9%time%"
+    reward: "+1 Dirt Block"

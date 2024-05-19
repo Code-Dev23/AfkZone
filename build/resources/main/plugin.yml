@@ -1,0 +1,6 @@
+name: SimpleAfkZone
+version: '0.3'
+main: net.drugssmp.simpleafkzone.SimpleAfkZone
+api-version: '1.20'
+commands:
+  setupafkzone:
